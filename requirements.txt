@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+pony
+latest_user_agents
